@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I am a full stack developer from india, <br>Developed 100+ projects
+I am a full stack developer from india, <br>Developed 25+ projects
 
 
 # 💻 Tech Stack:
