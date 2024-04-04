@@ -1,6 +1,8 @@
 
 # 💫 About Me:
 Dynamic Full Stack Developer Delving into AI Engineering | Expert in JavaScript, React, Node.js, & Databases | Eager to Explore AI Technologies for Innovative Solutions
+portfolio : [mrkk.ne](https://mrkk.netlify.app/)
+LinkedIn : https://www.linkedin.com/in/kasimkkn/
 
 
 # 💻 Tech Stack:
