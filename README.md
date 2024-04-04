@@ -18,5 +18,5 @@ Dynamic Full Stack Developer Delving into AI Engineering | Expert in JavaScript,
 [![](https://visitcount.itsvg.in/api?id=Kasimkkn&icon=1&color=12)](https://visitcount.itsvg.in)
 
 # links
-portfolio : [mrkk.ne](https://mrkk.netlify.app/)
-LinkedIn : https://www.linkedin.com/in/kasimkkn/
+[portfolio](https://mrkk.netlify.app/)
+[linkedIn](https://www.linkedin.com/in/kasimkkn/)
