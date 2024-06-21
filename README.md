@@ -14,8 +14,7 @@ Dynamic Full Stack Developer Delving into AI Engineering | Expert in JavaScript,
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=Kasimkkn&icon=1&color=12)](https://visitcount.itsvg.in)
+---[![](https://visitcount.itsvg.in/api?id=kasimkkn&label=Impression%20&pretty=true)](https://visitcount.itsvg.in)
 
 # links
 [portfolio](https://mrkk.netlify.app/)
